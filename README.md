@@ -1,5 +1,5 @@
 # Simple nsfw discord bot
-> Very simple discord bot using the Nekos.life wrapper and discord.js
+> Very simple nsfw discord bot using the Nekos.life wrapper and discord.js
 
 ## Install
 
