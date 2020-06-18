@@ -7,7 +7,7 @@ const neko = new nekoclient();
 client.on('ready', () => {
   console.log(`Bot tag: ${client.user.tag}`);
   console.log(`Guilds: ${client.guilds.cache.size}`);
-  client.user.setActivity(`with ${prefix}help`, { type: 'PLAYING' });
+  client.user.setActivity(`${prefix}help`, { type: 'PLAYING' });
 });
 
 // Hug
