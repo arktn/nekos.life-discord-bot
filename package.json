@@ -1,21 +1,21 @@
 {
-  "name": "nsfw-bot",
+  "name": "nekos.life-bot",
   "version": "1.0.0",
-  "description": "Very simple nsfw bot using the Nekos.life wrapper and discord.js",
+  "description": "Very simple Nekos.life bot using the Nekos.life wrapper and discord.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notmaxi/nsfw-bot.git"
+    "url": "git+https://github.com/fekt/nekos.life-bot.git"
   },
-  "author": "notmaxi",
+  "author": "fekt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/notmaxi/nsfw-bot/issues"
+    "url": "https://github.com/fekt/nekos.life-bot/issues"
   },
-  "homepage": "https://github.com/notmaxi/nsfw-bot#readme",
+  "homepage": "https://github.com/fekt/nekos.life-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
     "nekos.life": "^2.0.7"
