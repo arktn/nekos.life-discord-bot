@@ -32,6 +32,18 @@ And change the following values:
 * Get random questions, facts and cat emojis!
 * Cute pictures of cats, dogs and many more!
 
+## Restrict to NSFW-channel
+
+Open config.json
+And change the following values:
+
+* "true" - The bot only works in NSFW-channels.
+* "false" - The bot works in all channels.
+
+```
+"nsfw_channel_only": "TRUE_OR_FALSE",
+```
+
 ## Contributing
 
 ```
