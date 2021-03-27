@@ -1,4 +1,5 @@
 {
 	"prefix": "YOUR_PREFIX_HERE",
+	"nsfw_channel_only": "false",
 	"token": "YOUR_TOKEN_HERE"
 }
