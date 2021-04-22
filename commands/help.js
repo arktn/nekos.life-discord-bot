@@ -14,7 +14,7 @@ module.exports = {
             .setColor('7289da')
             .setDescription(`You want to create a discord bot like this yourself?\n[Check out our Github page!](https://github.com/ghaku/nekos.life-discord-bot)`)
             .addField('List of commands', prefix + 'commands')
-            .setFooter('Made with 💖 and discord.js by fekt', client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }))
+            .setFooter('Made with 💖 and discord.js by ghaku', client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }))
             message.author.send(embed);
             }
             if (!message.guild) {
@@ -25,7 +25,7 @@ module.exports = {
               .setColor('7289da')
               .setDescription(`You want to create a discord bot like this yourself?\n[Check out our Github page!](https://github.com/ghaku/nekos.life-discord-bot)`)
               .addField('List of commands', prefix + 'commands')
-              .setFooter('Made with 💖 and discord.js by fekt', client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }))
+              .setFooter('Made with 💖 and discord.js by ghaku', client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }))
               message.author.send(embed);
             }
     }
