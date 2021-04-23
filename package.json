@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ghaku/nekos.life-discord-bot.git"
   },
   "author": "ghaku",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ghaku/nekos.life-discord-bot/issues"
   },
