@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fez6/nekos.life-discord-bot.git"
+    "url": "git+https://github.com/schnappi21/nekos.life-discord-bot.git"
   },
-  "author": "fez6",
+  "author": "schnappi21",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fez6/nekos.life-discord-bot/issues"
+  "bugs": {schnappi21
+    "url": "https://github.com/schnappi21/nekos.life-discord-bot/issues"
   },
-  "homepage": "https://github.com/fez6/nekos.life-discord-bot#readme",
+  "homepage": "https://github.com/schnappi21/nekos.life-discord-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
     "nekos.life": "^2.0.7"
